@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Elment from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
+
+Vue.use(Elment)
 
 Vue.config.productionTip = false
 
