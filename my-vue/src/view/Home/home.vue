@@ -2,7 +2,7 @@
 <div>
   <el-container>
   <el-header width='100%'>
-    <div style="background-color:gray;color:white;text-align:center;height:50px;line-height:50px;font-size:36px">大保健管理系统</div>
+    <div style="background-color:gray;color:white;text-align:center;height:50px;line-height:50px;font-size:36px">管理系统</div>
   </el-header>
   <el-container>
     <el-aside width="200px">
@@ -126,9 +126,13 @@
     <el-main>
        <el-tabs type="border-card">
         <el-tab-pane>
-          <span slot="label"><i class="el-icon-date"></i> 图片懒加载</span> <HomeThree/></el-tab-pane>
+          <span slot="label"><i class="el-icon-date"></i> 图片懒加载</span> <Learn/></el-tab-pane>
           <el-tab-pane label="日历"><HomeChild/></el-tab-pane>
           <el-tab-pane label="走马灯"><HomeTwo/></el-tab-pane>
+          <el-tab-pane label="定时任务补偿"><HomeThree/></el-tab-pane>
+          <el-tab-pane label="Class与Style绑定"><Class/></el-tab-pane>
+          <el-tab-pane label="定时任务补偿"><HomeThree/></el-tab-pane>
+          <el-tab-pane label="定时任务补偿"><HomeThree/></el-tab-pane>
           <el-tab-pane label="定时任务补偿"><HomeThree/></el-tab-pane>
         </el-tabs>
     </el-main>
@@ -142,9 +146,11 @@
 import HomeChild from './homeChild'
 import HomeTwo from './hometwo'
 import HomeThree from './homethree'
+import Learn from './learn'
+import Class from './class'
 export default {
   name: 'HelloWorld',
-  components:{HomeChild,HomeTwo,HomeThree},
+  components:{HomeChild,HomeTwo,HomeThree,Learn,Class},
   data () {
     return {
       msg: '学习Vue,脚手架搭建项目',
