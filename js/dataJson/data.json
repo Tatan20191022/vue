@@ -1,0 +1,46 @@
+{ "data1": [
+
+    {"gameCode": "", "gameName": "", "levelId": 0, "levelName": "VIP0", "maxRate": "0.1000", "minRate": "0.1000","venueId": 1,"venueName": "AG"},
+    {"gameCode": "", "gameName": "", "levelId": 1, "levelName": "VIP1", "maxRate": "50.0000", "minRate": "50.0000","venueId": 2,"venueName": "qw"},
+    {"gameCode": "", "gameName": "", "levelId": 2, "levelName": "VIP2", "maxRate": "50.0000", "minRate": "50.0000","venueId": 3,"venueName": "qa"},
+    {"gameCode": "", "gameName": "", "levelId": 3, "levelName": "VIP3", "maxRate": "40.0000", "minRate": "40.0000","venueId": 4,"venueName": "we"},
+    {"gameCode": "", "gameName": "", "levelId": 4, "levelName": "VIP4", "maxRate": "0.9000", "minRate": "0.0100","venueId": 5,"venueName": "re"},
+    {"gameCode": "", "gameName": "", "levelId": 5, "levelName": "VIP5", "maxRate": "0.0200", "minRate": "0.0100","venueId": 6,"venueName": "as"},
+    {"gameCode": "", "gameName": "", "levelId": 6, "levelName": "VIP6", "maxRate": "0.0200", "minRate": "0.0100","venueId": 7,"venueName": "nb"},
+    {"gameCode": "", "gameName": "", "levelId": 7, "levelName": "VIP7", "maxRate": "0.0200", "minRate": "0.0100","venueId": 8,"venueName": "nm"},
+    {"gameCode": "", "gameName": "", "levelId": 8, "levelName": "VIP8", "maxRate": "0.0200", "minRate": "0.0100","venueId": 9,"venueName": "zx"},
+    {"gameCode": "", "gameName": "", "levelId": 9, "levelName": "VIP9", "maxRate": "0.0200", "minRate": "0.0100","venueId": 10,"venueName": "bf"},
+    {"gameCode": "", "gameName": "", "levelId": 10, "levelName": "VIP10", "maxRate": "0.0200", "minRate": "0.0100","venueId": 11,"venueName": "zx"}
+   
+   ] ,
+   "data2": [
+
+    {"gameCode": "", "gameName": "", "levelId": 0, "levelName": "VIP0", "maxRate": "0.1000", "minRate": "0.1000","venueId": 1,"venueName": "AG"},
+    {"gameCode": "", "gameName": "", "levelId": 1, "levelName": "VIP1", "maxRate": "50.0000", "minRate": "50.0000","venueId": 2,"venueName": "qw"},
+    {"gameCode": "", "gameName": "", "levelId": 2, "levelName": "VIP2", "maxRate": "50.0000", "minRate": "50.0000","venueId": 3,"venueName": "qa"},
+    {"gameCode": "", "gameName": "", "levelId": 3, "levelName": "VIP3", "maxRate": "40.0000", "minRate": "40.0000","venueId": 4,"venueName": "we"},
+    {"gameCode": "", "gameName": "", "levelId": 4, "levelName": "VIP4", "maxRate": "0.9000", "minRate": "0.0100","venueId": 5,"venueName": "re"},
+    {"gameCode": "", "gameName": "", "levelId": 5, "levelName": "VIP5", "maxRate": "0.0200", "minRate": "0.0100","venueId": 6,"venueName": "as"},
+    {"gameCode": "", "gameName": "", "levelId": 6, "levelName": "VIP6", "maxRate": "0.0200", "minRate": "0.0100","venueId": 7,"venueName": "nb"},
+    {"gameCode": "", "gameName": "", "levelId": 7, "levelName": "VIP7", "maxRate": "0.0200", "minRate": "0.0100","venueId": 8,"venueName": "nm"},
+    {"gameCode": "", "gameName": "", "levelId": 8, "levelName": "VIP8", "maxRate": "0.0200", "minRate": "0.0100","venueId": 9,"venueName": "zx"},
+    {"gameCode": "", "gameName": "", "levelId": 9, "levelName": "VIP9", "maxRate": "0.0200", "minRate": "0.0100","venueId": 10,"venueName": "bf"},
+    {"gameCode": "", "gameName": "", "levelId": 10, "levelName": "VIP10", "maxRate": "0.0200", "minRate": "0.0100","venueId": 11,"venueName": "zx"}
+   
+   ] ,
+   "data3": [
+
+    {"gameCode": "", "gameName": "", "levelId": 0, "levelName": "VIP0", "maxRate": "0.1000", "minRate": "0.1000","venueId": 1,"venueName": "AG"},
+    {"gameCode": "", "gameName": "", "levelId": 1, "levelName": "VIP1", "maxRate": "50.0000", "minRate": "50.0000","venueId": 2,"venueName": "qw"},
+    {"gameCode": "", "gameName": "", "levelId": 2, "levelName": "VIP2", "maxRate": "50.0000", "minRate": "50.0000","venueId": 3,"venueName": "qa"},
+    {"gameCode": "", "gameName": "", "levelId": 3, "levelName": "VIP3", "maxRate": "40.0000", "minRate": "40.0000","venueId": 4,"venueName": "we"},
+    {"gameCode": "", "gameName": "", "levelId": 4, "levelName": "VIP4", "maxRate": "0.9000", "minRate": "0.0100","venueId": 5,"venueName": "re"},
+    {"gameCode": "", "gameName": "", "levelId": 5, "levelName": "VIP5", "maxRate": "0.0200", "minRate": "0.0100","venueId": 6,"venueName": "as"},
+    {"gameCode": "", "gameName": "", "levelId": 6, "levelName": "VIP6", "maxRate": "0.0200", "minRate": "0.0100","venueId": 7,"venueName": "nb"},
+    {"gameCode": "", "gameName": "", "levelId": 7, "levelName": "VIP7", "maxRate": "0.0200", "minRate": "0.0100","venueId": 8,"venueName": "nm"},
+    {"gameCode": "", "gameName": "", "levelId": 8, "levelName": "VIP8", "maxRate": "0.0200", "minRate": "0.0100","venueId": 9,"venueName": "zx"},
+    {"gameCode": "", "gameName": "", "levelId": 9, "levelName": "VIP9", "maxRate": "0.0200", "minRate": "0.0100","venueId": 10,"venueName": "bf"},
+    {"gameCode": "", "gameName": "", "levelId": 10, "levelName": "VIP10", "maxRate": "0.0200", "minRate": "0.0100","venueId": 11,"venueName": "zx"}
+   
+   ] 
+}
