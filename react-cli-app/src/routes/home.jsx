@@ -10,7 +10,7 @@ export default class Home extends React.PureComponent{
     }
 
     componentDidMount(){
-    //    ajax()
+       ajax()
     }
 
     render(){
